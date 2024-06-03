@@ -28,7 +28,7 @@ The goal is to develop a navigation system for equipment, with four distinct use
  
 # *General Information*
  
-Compiler: VsCode 1.88.1  <br/>
+Compiler: VsCode 1.89.1  <br/>
 MCU: ESP32  <br/>
 Board: Dev module 38 pins <br/>
 Date: 2024, May <br/>
